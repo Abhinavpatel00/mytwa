@@ -1,4 +1,4 @@
-ojodj:wq# twa-template
+knddlw'ojodj:wq# twa-template
 
 > Starter template for a new TWA interacting with the TON blockchain
 
